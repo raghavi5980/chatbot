@@ -16,7 +16,7 @@ import nltk
 print ("You have successfully imported pandas version "+pd.__version__)
 print ("You have successfully imported nltk version "+nltk.__version__)
 
-# load the csv file that contains the tweets on natural disasters into a pandas dataframe
+# load the csv file that contains the tweets on sexual harassments into a pandas dataframe
 df_raw = pd.read_csv('./analysis-public-place-assaults-sexual-assaults-and-robberies-2015-csv.csv', encoding='latin-1')
 
 print ("You have successfully loaded your csv file")
