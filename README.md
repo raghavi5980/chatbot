@@ -207,4 +207,7 @@ while(flag==True):
     else:
         flag=False
         print("cookie: Bye! take care..")
+        [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/raghavi5980/chatbot/HEAD)
+        .. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/raghavi5980/chatbot/HEAD
 
